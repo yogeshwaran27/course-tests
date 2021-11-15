@@ -10,8 +10,16 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshwaran27/course-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yogeshwaran27/course-tests/issues"
+  },
+  "homepage": "https://github.com/yogeshwaran27/course-tests#readme"
 }
